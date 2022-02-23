@@ -1,0 +1,3 @@
+https://deb.debian.org/debian/dists/bullseye/main/installer-amd64/current/images/netboot/mini.iso
+https://deb.debian.org/debian/dists/bullseye/main/installer-amd64/current/images/netboot/netboot.tar.gz
+https://deb.debian.org/debian/dists/bullseye/main/installer-amd64/current/images/MANIFEST
